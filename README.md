@@ -8,6 +8,7 @@ I've been learning React.js ,html and css.
 
 * 🌍  I'm based in Bangkok,Thailand
 * ✉️  You can contact me at [natthawut\_012546@icloud.com](mailto:natthawut_012546@icloud.com)
+*  Line : mainatthawut_2546
 
 ### Skills
 
